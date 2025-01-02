@@ -3,6 +3,8 @@ Chat with CSV files using Langchain agent and OpenAI
 
 ### Basic Flow of the Usecase
 
+ ![Flowchart](csv_agent_flowchart.jpg)
+
 ### Setup LLM 
 * Get OpenAI API Key from [OpenAI's Portal](https://platform.openai.com/)
 * Setup any other LLM you wish to use
