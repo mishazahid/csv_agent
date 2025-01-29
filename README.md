@@ -17,4 +17,4 @@ Chat with CSV files using Langchain agent and OpenAI
 * Run the noteobok titled "csv_agent.ipynb" to run the application
 
 ### Caution
-The "allow_dangerous_code" parameter has been set to "True" in the LLM. It may generate malicious code as it is AI generated.
+The "allow_dangerous_code" parameter has been set to "True" in the LLM. It may generate malicious code as it is AI generated. It is best practice to run this in a containerised environment.
